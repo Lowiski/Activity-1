@@ -1,0 +1,52 @@
+* { 
+    background-color: rgb(255, 255, 255);
+    
+}
+
+.draft {
+    background-color: rgb(11, 13, 14);
+    text-align: center;
+    color: black;
+    padding: 20px;
+    font-size: 30px;
+    border-radius: 50px;
+
+}
+
+#heroes {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 50px;    
+    background-color: red;
+    
+}
+h1 {
+    text-align: center;
+    background-color: rgb(190, 173, 176);
+}
+
+#items {
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 50px;
+    background-color: rgb(98, 0, 255);
+    padding-top: 10px;
+    
+}
+#tips
+{
+    font-size: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 50px;
+    background-color: rgb(23, 56, 18);
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+}
+
+
+
+   
