@@ -53,11 +53,11 @@ h1 {
     padding-left: 50px;
     padding-right: 50px;
     border-radius: 100px;
-    background-color: rgb(16, 81, 7);
+    background-color: rgb(135, 2, 84);
     padding-top: 10px;
     padding-bottom: 20px;
     border-style: solid;
-    border-color: rgb(161, 236, 11);
+    border-color: rgb(236, 11, 187);
 
 }
 a {
@@ -72,6 +72,10 @@ a {
 }
 #yes {
     background: url(mlbg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .badangpic {
     display: flex;
@@ -93,3 +97,23 @@ h2 {
     margin: 2%;
     font-size: 150px;
 }
+.badangitem {
+    display: flex;
+}
+.cecilionitem {
+    display: flex;
+}
+.irithelitem {
+    display: flex;
+}
+.lukasitem {
+    display: flex;
+}
+.joyitem {
+    display: flex;
+}
+p {
+    text-align: center;
+    color: white;
+}
+
